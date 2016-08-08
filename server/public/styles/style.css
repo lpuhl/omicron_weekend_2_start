@@ -1,0 +1,43 @@
+h1, h2, p, button {
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.github1 {
+  font-size: 14px;
+  color: gray;
+}
+
+.github2 {
+  font-family: Courier, monospace;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.featured-student {
+  width: 600px;
+  margin: auto;
+}
+
+.carousel {
+  width: 600px;
+  margin:auto;
+}
+
+.box {
+  height: 20px;
+  width: 20px;
+  margin: 3px;
+  background-color: olive;
+  border-color: black;
+  border-width: 3px;
+  display: inline-block;
+}
+
+.controls {
+  width: 600px;
+  margin: auto;
+}
